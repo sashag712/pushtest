@@ -8,4 +8,4 @@ def check_even_or_odd(number):
     if number % 2 == 0:
         return "e1ven"
     else:
-        return "od11222222211d"
+        return "555"
