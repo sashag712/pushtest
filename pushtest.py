@@ -6,6 +6,6 @@ def greet_user(username):
 def check_even_or_odd(number):
     """A function that uses conditional logic to check a number."""
     if number % 2 == 0:
-        return "e1ven"
+        return "e12345ven"
     else:
-        return "od1198711d"
+        return "5342"
